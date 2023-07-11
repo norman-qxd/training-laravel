@@ -1,0 +1,1 @@
+<button> {{$atributes}}>{{$slot}}</button>
